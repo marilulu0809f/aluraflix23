@@ -5,3 +5,31 @@ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 margin:10px;
 
 }
+h2{
+    color:brown
+    fonts-size: 25px;
+}
+
+p{
+    font-size: 25px;
+}
+
+heard{
+    border-bottom:solid chocolate
+    margin: 2px;
+    padding: 10px;
+    color:
+}
+_chamada{
+    background-color: black;
+    padding-bottom: 80px;
+    paddding-top: 80px;
+display:flex;
+justify-content:center;
+}
+_chamada-texto{
+    margin-right: 8%;
+}
+ing[
+    height: 200px;
+]
